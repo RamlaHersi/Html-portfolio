@@ -1,0 +1,36 @@
+*{padding: 0;
+margin: 0;
+box-sizing: border-box;
+text-align: center;}
+
+body{
+    background-color:#FF9D9D;
+   
+
+}
+h1{background-color:#EEF8CD;}
+p{font-size: 20px;
+background-color: #BBF1D2;}
+
+.image{
+    width: 200px;
+   height: 200px;
+    background-color: #FFC5AA;
+    border: 10px solid  #FFC5AA;
+}
+.caption{background-color: #FFC5AA;
+}
+
+
+
+#image2{  margin-left: 200px;
+     
+}
+
+#image3{margin-left: 400px;
+    }
+
+
+
+img{width: 100%;
+height: 100%;}
